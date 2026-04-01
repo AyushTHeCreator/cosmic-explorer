@@ -1,0 +1,4 @@
+[
+    { "name": "Earth", "type": "Terrestrial" },
+    { "name": "Jupiter", "type": "Gas Giant" }
+]
